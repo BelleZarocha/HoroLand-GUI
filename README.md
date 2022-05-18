@@ -1,6 +1,6 @@
 # HoroLand-GUI
 
-Hello Guys
+Hello Guys,
 Welcome to my project "Horo Land GUI"
 I used JFrame Form in Java Netbeans for design my project.
 
